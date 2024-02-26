@@ -1,0 +1,18 @@
+
+  body{
+    background-image:
+        url(https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+        background-repeat:no-repeat;
+        background-size:cover;
+}
+img{
+    margin-bottom:30px;
+    margin-top:5px;
+    margin-left:5px;
+    margin-right:5px;
+ border: 10px double black;
+    padding: 10px;
+    
+    
+    
+}
